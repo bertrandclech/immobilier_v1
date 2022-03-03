@@ -1,8 +1,10 @@
 <?php
 
-class TestClass{
+class TestClass
+{
+
     public function test()
-     {
-         echo 'working';
-     }
+    {
+        echo 'working';
+    }
 }
